@@ -15,43 +15,45 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>Green Intern</h4>
+                <h5>1M1B(One Million One Billion)</h5>
               </div>
-              <h3>20XX</h3>
+              <h3>2026</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+             Green Skills & Applied AI Internship
+Completed the Green Skills & Applied AI Internship under 1M1B, gaining exposure to 
+artificial intelligence and sustainability-focused solutions. Worked on AgriSense AI, 
+an agriculture-based project focused on plant disease detection, crop management, 
+and nutrient deficiency guidance.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>Student Intern</h4>
+                <h5>Pegasystems</h5>
               </div>
-              <h3>20XX</h3>
+              <h3>2026</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+           Completed a Pega internship, gaining practical exposure to low-code 
+           application development, workflow automation, and business process management 
+           using the Pega Platform.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4></h4>
+                <h5></h5>
               </div>
-              <h3>NOW</h3>
+              <h3></h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
+              {/* Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
               labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+              mollitia ratione suscipit repellat. */}
             </p>
           </div>
         </div>

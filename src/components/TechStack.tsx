@@ -168,6 +168,7 @@ const TechStack = () => {
 
   return (
     <div className="techstack">
+      <br />
       <h2> My Techstack</h2>
 
       <Canvas
